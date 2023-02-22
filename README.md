@@ -1,5 +1,5 @@
 # Profile App
-## Desciription
+## Description
 This is the assignment for the Mobile App Development Intern role with Invest With Tribe.
 
 ## Problem Statement
